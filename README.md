@@ -22,8 +22,8 @@ A code editor (e.g., VS Code with Flutter/Dart extensions)
 
 Setup Instructions
 1. Clone the Repository
-git clone https://github.com/sumanm202/task-manager-app.git
-cd task-manager-app
+git clone https://github.com/sumanm202/to_do-using-Flutter.git
+cd to_do-using-Flutter
 
 2. Install Dependencies
 Run the following command to install the required Flutter packages:
