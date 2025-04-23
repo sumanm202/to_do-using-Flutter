@@ -22,7 +22,7 @@ A code editor (e.g., VS Code with Flutter/Dart extensions)
 
 Setup Instructions
 1. Clone the Repository
-git clone https://github.com/your-username/task-manager-app.git
+git clone https://github.com/sumanm202/task-manager-app.git
 cd task-manager-app
 
 2. Install Dependencies
